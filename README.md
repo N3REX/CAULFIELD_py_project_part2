@@ -11,7 +11,7 @@ Notes for myself looking back on this and also for Laura, who will be looking ov
 
 >I'm sure there is some "easy" way to encode the scripts to pull the genome files from NCBI, but I'm not quite that good yet.
 
->For the ruddi_analysis.py there was a weird FutureError message which seemed begign and did not impact the script. A little conused since
+>For the ruddi_analysis.py there was a weird FutureError message which seemed benign and did not impact the script. A little conused since
  from my understanding of the error message it was a non issue. Just in case, I put a little thing into the code to hopefully deal with it.
 
 >Still relatively new to Pandas, so I couldn't get the dataframe transposition for ruddi to work how I wanted to- though I'm not sure I even had
