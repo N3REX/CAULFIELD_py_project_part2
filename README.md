@@ -16,5 +16,6 @@ Notes for myself looking back on this and also for Laura, who will be looking ov
 
 >Still relatively new to Pandas, so I couldn't get the dataframe transposition for ruddi to work how I wanted to- though I'm not sure I even had
  to in the first place? Those index values wouldn't budge which I found pretty odd.
+ (Not going back and editing my submission since that seems a lil cheating-y, but perhaps setting index to false on the csv export was the culprit)
 
 
